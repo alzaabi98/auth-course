@@ -1,0 +1,16 @@
+{
+  "name": "authnodeapp",
+  "version": "1.0.0",
+  "description": "to test passport auth with mysql",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "author": "Aziz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
